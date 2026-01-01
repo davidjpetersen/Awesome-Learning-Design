@@ -6,7 +6,7 @@
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^4.0.0",
+    "astro": "^5.15.9",
     "@astrojs/starlight": "^0.15.0"
   }
 }
